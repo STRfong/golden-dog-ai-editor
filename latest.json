@@ -1,15 +1,15 @@
 {
-  "version": "0.1.4",
-  "notes": "修復從網路下載安裝時顯示已損毀的問題",
+  "version": "0.1.5",
+  "notes": "恢復原始打包方式，準備導入 Apple Developer 簽名",
   "pub_date": "2026-02-28T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRVWE5NDZQTUZMb3V3V2xmRENpV2szZnVsU0VPNEpXeERHZUhkcmE1Y2xGOVBlRm1jMi9hSnhZQm5tVHZvZnNtRGQ3dTQ5ejF0UXRvbklBSFRiSTd2K2UvYkd1R0hIbFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU5NDc2CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKNVppeEMzS1hyMWx5QldoWjRML0pSSDA4MHFMTXppQ2k2RFF6eXo3T1lXVCt6NGYrdjE5dEJTQ0hhazBiWlRXdmhnVSsvQ2VBSDhvWGl6UEplOWhsQUE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRVWE5NDZQTUZMb2pKU00yN3JxUUxNN0hYajhlNnFoVXRnZWNHZ1paZXFZaUNNcTg0NFBhcjlCam0wZWl0YVlvNzdWeXNmcGtKVnpwTDJxR05PdVBSamM5WE5BSTlVM1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjYwODY4CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKTkY3SS9HZUJFdkNrZndOUWxFVWJDSWpseFMxLzB5SzRHelFhdU9ZaGxDbDU1ZkJyU3lCVHh1MTVZbEthNjhESWVLekxyaEtBT2dLaGxmOHdoWE4zQkE9PQo="
     },
     "darwin-x86_64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRVWE5NDZQTUZMb3V3V2xmRENpV2szZnVsU0VPNEpXeERHZUhkcmE1Y2xGOVBlRm1jMi9hSnhZQm5tVHZvZnNtRGQ3dTQ5ejF0UXRvbklBSFRiSTd2K2UvYkd1R0hIbFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU5NDc2CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKNVppeEMzS1hyMWx5QldoWjRML0pSSDA4MHFMTXppQ2k2RFF6eXo3T1lXVCt6NGYrdjE5dEJTQ0hhazBiWlRXdmhnVSsvQ2VBSDhvWGl6UEplOWhsQUE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRVWE5NDZQTUZMb2pKU00yN3JxUUxNN0hYajhlNnFoVXRnZWNHZ1paZXFZaUNNcTg0NFBhcjlCam0wZWl0YVlvNzdWeXNmcGtKVnpwTDJxR05PdVBSamM5WE5BSTlVM1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjYwODY4CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKTkY3SS9HZUJFdkNrZndOUWxFVWJDSWpseFMxLzB5SzRHelFhdU9ZaGxDbDU1ZkJyU3lCVHh1MTVZbEthNjhESWVLekxyaEtBT2dLaGxmOHdoWE4zQkE9PQo="
     }
   }
 }
