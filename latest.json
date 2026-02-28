@@ -1,15 +1,15 @@
 {
-  "version": "0.1.2",
-  "notes": "修復更新檢查 dialog 重複彈出的問題",
+  "version": "0.1.3",
+  "notes": "修復從網路下載安裝時顯示已損毀的問題",
   "pub_date": "2026-02-28T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3EvTng0MkJGczRmSlFlRFZtclRxdi9xS3loMWFWVW05bjY3QU9mVmRkcHVnUzFEUVYrRXBqejJxSzhWRFptQlFINzM5ZVR1T0FFa25ReDcwZmVteGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU2ODkyCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKV3FVQ3EyaE5kV2pvSVpWQjZMNlZnaC8vT2VQNzdGdWFqdXREZnB0R24xMlBlY1ZuclhoeU54bFA4VEVPc3A2Yy83RjNFbXBtbGdlWVlwcHJsSTh1QWc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRVWE5NDZQTUZMb3F5UHJ5Q0NTbTZuVlduc0ZXWnZEM1ViemJEcUd0Mjdha2tVT21nK3RkcDBkS2FMWlg1aGhmV3k4emNSdkVtNXBZbFRYMFFGVnFVcTdaQzJTZkFvRGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU4NjYxCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKeTBqdXQwb1ZrU2crTzNtcFFLdWxKVkJpM3lwOTYvaFd2S2xKWkU0SkU3WUdlRUtuc1dwSkhOWld3bVlyek5zK3AxSDFPY21tQ2ZqZHVTN2c5enBmQXc9PQo="
     },
     "darwin-x86_64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3EvTng0MkJGczRmSlFlRFZtclRxdi9xS3loMWFWVW05bjY3QU9mVmRkcHVnUzFEUVYrRXBqejJxSzhWRFptQlFINzM5ZVR1T0FFa25ReDcwZmVteGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU2ODkyCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKV3FVQ3EyaE5kV2pvSVpWQjZMNlZnaC8vT2VQNzdGdWFqdXREZnB0R24xMlBlY1ZuclhoeU54bFA4VEVPc3A2Yy83RjNFbXBtbGdlWVlwcHJsSTh1QWc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRVWE5NDZQTUZMb3F5UHJ5Q0NTbTZuVlduc0ZXWnZEM1ViemJEcUd0Mjdha2tVT21nK3RkcDBkS2FMWlg1aGhmV3k4emNSdkVtNXBZbFRYMFFGVnFVcTdaQzJTZkFvRGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU4NjYxCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKeTBqdXQwb1ZrU2crTzNtcFFLdWxKVkJpM3lwOTYvaFd2S2xKWkU0SkU3WUdlRUtuc1dwSkhOWld3bVlyek5zK3AxSDFPY21tQ2ZqZHVTN2c5enBmQXc9PQo="
     }
   }
 }
