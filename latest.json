@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "初始版本",
+  "pub_date": "2026-02-28T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3QrcDlGdjA1bENkaXZseVU4aTk5citoSjJzdC8xTW1HaklCY1ArSFdjam53MDFneklPRkdrTFdkUUQ5bGxPNmxBaTh5RHUxNGJvanl3M0tiV1VmN2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjUzNTkxCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKdCtXUFhDZjlvOCtRZG8wakhPU3c3TlJtOXhvTDlPTWpaeTlsUjZMMFc2aHlabEY1Ulo3QW5URkNUeng1eENUcmVkK3EzUWV6ZFZGYzBJVWRzdVpPQnc9PQo="
+    },
+    "darwin-x86_64": {
+      "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3QrcDlGdjA1bENkaXZseVU4aTk5citoSjJzdC8xTW1HaklCY1ArSFdjam53MDFneklPRkdrTFdkUUQ5bGxPNmxBaTh5RHUxNGJvanl3M0tiV1VmN2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjUzNTkxCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKdCtXUFhDZjlvOCtRZG8wakhPU3c3TlJtOXhvTDlPTWpaeTlsUjZMMFc2aHlabEY1Ulo3QW5URkNUeng1eENUcmVkK3EzUWV6ZFZGYzBJVWRzdVpPQnc9PQo="
+    }
+  }
+}
