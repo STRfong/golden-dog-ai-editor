@@ -1,15 +1,15 @@
 {
-  "version": "0.1.6",
-  "notes": "加入 Apple Developer ID 簽署、建立自動版本號 bump 機制、修復 cargo tauri dev 設定",
+  "version": "0.1.7",
+  "notes": "修正 XML 時間軸排列、音頻同步、序列長度計算，新增源檔案長度驗證",
   "pub_date": "2026-03-03T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3JuMXRIS1hFc0ZJNjZDYWJ0cGNtOE12MXJRMzVZSjJjWUd6ZDlXVWg3UDlGQjUweE1GWHB2Qk4xdjgzMXRNbkozOFhQNHprYUhnYzVwYStUdlc5cUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTA0NzExCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKbWt4L1RFM2lxUUpKQ2g5R09id1BUeHFPRGFwb2s1eVZmQk9JV3kxWjBHbDhmUzA5N0ZJWmVvZzVvZVhhakxSZGFFQ0JyeTh4a2tUK25uZklQd0JSQ3c9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3FLN0t3ekxVR0NLa0UydERsTHRlS2ZJUTJhOG44ZHZKZC9rYUFrNFFmM2d6MnpGVG1lY3g3bnFYYmQ1R0pjd2ZkbmN0Q3ZiVXh6UWV4SSt4UFUvN0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTMyODkwCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKclpVdHZaQkpuNnZEcWY3U05IcDllOXZIc1h5SGxIbUcrM2h1dkk5Y01RSEZLL3FNZ2doc1JJQTFMbCszY0xlZ2haUi8rSTAyNlZmSFR6R3QxYVdiRGc9PQo="
     },
     "darwin-x86_64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3JuMXRIS1hFc0ZJNjZDYWJ0cGNtOE12MXJRMzVZSjJjWUd6ZDlXVWg3UDlGQjUweE1GWHB2Qk4xdjgzMXRNbkozOFhQNHprYUhnYzVwYStUdlc5cUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTA0NzExCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKbWt4L1RFM2lxUUpKQ2g5R09id1BUeHFPRGFwb2s1eVZmQk9JV3kxWjBHbDhmUzA5N0ZJWmVvZzVvZVhhakxSZGFFQ0JyeTh4a2tUK25uZklQd0JSQ3c9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3FLN0t3ekxVR0NLa0UydERsTHRlS2ZJUTJhOG44ZHZKZC9rYUFrNFFmM2d6MnpGVG1lY3g3bnFYYmQ1R0pjd2ZkbmN0Q3ZiVXh6UWV4SSt4UFUvN0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTMyODkwCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKclpVdHZaQkpuNnZEcWY3U05IcDllOXZIc1h5SGxIbUcrM2h1dkk5Y01RSEZLL3FNZ2doc1JJQTFMbCszY0xlZ2haUi8rSTAyNlZmSFR6R3QxYVdiRGc9PQo="
     }
   }
 }
