@@ -1,15 +1,15 @@
 {
-  "version": "0.2.2",
-  "notes": "- 調整 prompt 與修復打包邏輯\n- 修正版本號不同步問題\n- 改善 bump-and-build.sh 的 sed 相容性",
-  "pub_date": "2026-03-04T00:00:00Z",
+  "version": "0.2.3",
+  "notes": "- 優化內部代碼",
+  "pub_date": "2026-03-05T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb2wyR1ZGQXlRTWIyUk5mRkZuNVNlSHhualFIWlZZVm1TTktTd1hpUVgrT3M4elg4bjF0SlRHbk1IVjNGYjNHRm5hY0NjMWlFTG9pSGYyUkZPdE92N1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjE2Nzg1CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKcEwwWnIxME5rN1BQWTZ2d3M5VGxIM2xNMHBxY1JubnVFL1dyM0txdEJVYit4U00xVkcxSElNMmVuVVVnVm1ScUcyeEdBZGN0UEE4VDZmRFZLR2lxRHc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRVWE5NDZQTUZMb2diVUpmR3FHR21sTFhPVkJPRjVMVnlia3JBWit2MnpsUFoxa08wYVpSbnUvdE8yRmFnZWlST3dnRHZ3TkU1YndiZnlrUGJ5MTJYMXZMb0dJa1RpMmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjk3MDU5CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKajE2SFAwcWpkSTBwa1R3S1h1TjBNT3BSMHNCeVJreDhORS9lOUxxb2cxRlpoVkR6elZDd1pVMnArY1JQVStpYUNGNU54a09GVjAvNUx5ZmhZMi9zQXc9PQo="
     },
     "darwin-x86_64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb2wyR1ZGQXlRTWIyUk5mRkZuNVNlSHhualFIWlZZVm1TTktTd1hpUVgrT3M4elg4bjF0SlRHbk1IVjNGYjNHRm5hY0NjMWlFTG9pSGYyUkZPdE92N1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjE2Nzg1CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKcEwwWnIxME5rN1BQWTZ2d3M5VGxIM2xNMHBxY1JubnVFL1dyM0txdEJVYit4U00xVkcxSElNMmVuVVVnVm1ScUcyeEdBZGN0UEE4VDZmRFZLR2lxRHc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRVWE5NDZQTUZMb2diVUpmR3FHR21sTFhPVkJPRjVMVnlia3JBWit2MnpsUFoxa08wYVpSbnUvdE8yRmFnZWlST3dnRHZ3TkU1YndiZnlrUGJ5MTJYMXZMb0dJa1RpMmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjk3MDU5CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKajE2SFAwcWpkSTBwa1R3S1h1TjBNT3BSMHNCeVJreDhORS9lOUxxb2cxRlpoVkR6elZDd1pVMnArY1JQVStpYUNGNU54a09GVjAvNUx5ZmhZMi9zQXc9PQo="
     }
   }
 }
