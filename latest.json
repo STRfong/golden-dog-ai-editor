@@ -1,15 +1,15 @@
 {
-  "version": "0.2.3",
-  "notes": "- 優化內部代碼",
-  "pub_date": "2026-03-05T00:00:00Z",
+  "version": "0.2.4",
+  "notes": "- 拍攝規則從固定模板改為可自訂預設（DB 儲存、CRUD、管理頁面）\n- Step 3 規則編輯改為結構化表單，不需要手寫 markdown\n- Navbar 新增「規則預設」管理入口\n- Prompt 框架與拍攝規則分離，支援 {{RULES}} 佔位符",
+  "pub_date": "2026-03-24T08:15:08Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb2diVUpmR3FHR21sTFhPVkJPRjVMVnlia3JBWit2MnpsUFoxa08wYVpSbnUvdE8yRmFnZWlST3dnRHZ3TkU1YndiZnlrUGJ5MTJYMXZMb0dJa1RpMmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjk3MDU5CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKajE2SFAwcWpkSTBwa1R3S1h1TjBNT3BSMHNCeVJreDhORS9lOUxxb2cxRlpoVkR6elZDd1pVMnArY1JQVStpYUNGNU54a09GVjAvNUx5ZmhZMi9zQXc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3ZScGFScHVhdm1vLzhGbVdoWUJwdDlVdUZLbi9KMWNQMCt3cjdQN3JUN2M2OHBkTm1icUdISlpFRTRyV21GdUtFZFJ0OHVCa0UwSHZDbjVSby9iMEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzM5Mzc1CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKYlFSdVNZVVFMZXRReVVJMUIzczdMZU56NjE1UStDZkVTa056cGlsZzFjaWR6Mk9SaUFFYWpiSG5DUWdGVVc1ZUg0MDNIcE1VVytpQUg3SDRML1drQkE9PQo="
     },
     "darwin-x86_64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb2diVUpmR3FHR21sTFhPVkJPRjVMVnlia3JBWit2MnpsUFoxa08wYVpSbnUvdE8yRmFnZWlST3dnRHZ3TkU1YndiZnlrUGJ5MTJYMXZMb0dJa1RpMmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjk3MDU5CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKajE2SFAwcWpkSTBwa1R3S1h1TjBNT3BSMHNCeVJreDhORS9lOUxxb2cxRlpoVkR6elZDd1pVMnArY1JQVStpYUNGNU54a09GVjAvNUx5ZmhZMi9zQXc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3ZScGFScHVhdm1vLzhGbVdoWUJwdDlVdUZLbi9KMWNQMCt3cjdQN3JUN2M2OHBkTm1icUdISlpFRTRyV21GdUtFZFJ0OHVCa0UwSHZDbjVSby9iMEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzM5Mzc1CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKYlFSdVNZVVFMZXRReVVJMUIzczdMZU56NjE1UStDZkVTa056cGlsZzFjaWR6Mk9SaUFFYWpiSG5DUWdGVVc1ZUg0MDNIcE1VVytpQUg3SDRML1drQkE9PQo="
     }
   }
 }
