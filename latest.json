@@ -1,15 +1,15 @@
 {
-  "version": "0.2.4",
-  "notes": "- 拍攝規則從固定模板改為可自訂預設（DB 儲存、CRUD、管理頁面）\n- Step 3 規則編輯改為結構化表單，不需要手寫 markdown\n- Navbar 新增「規則預設」管理入口\n- Prompt 框架與拍攝規則分離，支援 {{RULES}} 佔位符",
-  "pub_date": "2026-03-24T08:15:08Z",
+  "version": "0.2.7",
+  "notes": "- 修復 EDL 預覽聲音疊加（切鏡後多鏡頭同時出聲）\n- 合併完成後自動為每鏡頭生成低解析度代理檔，大幅改善切鏡卡頓\n- 非 active 鏡頭改用 opacity 隱藏，維持瀏覽器 decoder 持續運作\n- 代理檔生成進度 UI、失敗隔離、冪等跳過\n- 刪除專案時連帶清理代理檔目錄",
+  "pub_date": "2026-05-04T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3ZScGFScHVhdm1vLzhGbVdoWUJwdDlVdUZLbi9KMWNQMCt3cjdQN3JUN2M2OHBkTm1icUdISlpFRTRyV21GdUtFZFJ0OHVCa0UwSHZDbjVSby9iMEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzM5Mzc1CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKYlFSdVNZVVFMZXRReVVJMUIzczdMZU56NjE1UStDZkVTa056cGlsZzFjaWR6Mk9SaUFFYWpiSG5DUWdGVVc1ZUg0MDNIcE1VVytpQUg3SDRML1drQkE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb2t5N1c3NWFoSHBrMlZYSHFNWkEvbnZtck5aYlc2a1ZFS201ZGZSUHVJZ1RvL1JNbHhvMzB2U25MY2VocW80K0VhRUhqVzZpNXJNcGRyZjUwWVozY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3ODY2NTQyCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKQ1h6dzRDNmxjUTQxRnVTMXFyZGtZbmlrZ1VKK3NkOGhuaDExR2JqSjQrdW56Tk05Ump0UHN2MnR2bEN2QkNGTWtSaEc0UmpMTXdOa2xiMU1DZW0yRHc9PQo="
     },
     "darwin-x86_64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3ZScGFScHVhdm1vLzhGbVdoWUJwdDlVdUZLbi9KMWNQMCt3cjdQN3JUN2M2OHBkTm1icUdISlpFRTRyV21GdUtFZFJ0OHVCa0UwSHZDbjVSby9iMEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzM5Mzc1CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKYlFSdVNZVVFMZXRReVVJMUIzczdMZU56NjE1UStDZkVTa056cGlsZzFjaWR6Mk9SaUFFYWpiSG5DUWdGVVc1ZUg0MDNIcE1VVytpQUg3SDRML1drQkE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb2t5N1c3NWFoSHBrMlZYSHFNWkEvbnZtck5aYlc2a1ZFS201ZGZSUHVJZ1RvL1JNbHhvMzB2U25MY2VocW80K0VhRUhqVzZpNXJNcGRyZjUwWVozY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3ODY2NTQyCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKQ1h6dzRDNmxjUTQxRnVTMXFyZGtZbmlrZ1VKK3NkOGhuaDExR2JqSjQrdW56Tk05Ump0UHN2MnR2bEN2QkNGTWtSaEc0UmpMTXdOa2xiMU1DZW0yRHc9PQo="
     }
   }
 }
