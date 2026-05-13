@@ -1,15 +1,15 @@
 {
-  "version": "0.2.8",
-  "notes": "- 影片裁切 Step 3：新增「單元名稱範本」功能，可預存固定流程的單元名稱清單並一鍵套用（例如薩滿四小時 7 段）\n- 範本支援拖曳排序編輯、雙擊下拉開啟編輯器、套用時若已有單元會跳出黃色確認 bar 覆蓋名稱保留時間碼\n- 影片裁切 Step 3：可直接編輯 Pending Row（入點/出點/名稱），保留 J/K/L、I/O 快捷鍵\n- 影片裁切 Step 4：新增 token chips 助手，方便插入 {##}、{name}、{cam} 等命名標記",
-  "pub_date": "2026-05-07T01:08:08Z",
+  "version": "0.2.9",
+  "notes": "- 影片裁切 Step 3 新增單元名稱範本功能\n- 影片裁切 Step 3 可編輯 Pending Row、Step 4 新增 token chips 助手\n- 新增「影片裁切」工具頁",
+  "pub_date": "2026-05-13T07:46:58Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3FaVEFFM1BrbXB5YnA2eEw2YVhzNFRIVUJlNDYyU3ptNElCK1lNUFhua2QxRWZVcWhGajVxcTQ5LzZJYTNtVEpNZDRjQmc5M1dnZ1NpL0VmRm8xQmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDYwNDIwCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKRFh5OFZxZld5di8rY2pJdHovWmZIanR3Z0EwWmVmd3ZZNnE5cHhSUzJDQXQ3TStMSEdMOFhkWDdpWjJxNGd1MUVIWXZpaHlmTWJaU0hVUU9vUS9oRFE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3VmcTQ2Q3QwenY0dG5mMjVWc3JqblFWK0NYZDNZNHpGQVNMN2hLbUkvTU1XeDJYTUZkazg2alo1MWZrd01LOGs3YVRPM204WHlVU0tiWk9hQ2w4RndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NjU4MzkwCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKSXFmU29nRmFLZ3ZEdHVYRGdCem5TR2JxRU1GSjMrNmY4Tkt3WTRaTHl5ZTZDMjdFSEZxbmJESUxDSm80QzQ2dlJPekxCN0c0bElJWlJ0eUtrVjdXRHc9PQo="
     },
     "darwin-x86_64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3FaVEFFM1BrbXB5YnA2eEw2YVhzNFRIVUJlNDYyU3ptNElCK1lNUFhua2QxRWZVcWhGajVxcTQ5LzZJYTNtVEpNZDRjQmc5M1dnZ1NpL0VmRm8xQmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDYwNDIwCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKRFh5OFZxZld5di8rY2pJdHovWmZIanR3Z0EwWmVmd3ZZNnE5cHhSUzJDQXQ3TStMSEdMOFhkWDdpWjJxNGd1MUVIWXZpaHlmTWJaU0hVUU9vUS9oRFE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3VmcTQ2Q3QwenY0dG5mMjVWc3JqblFWK0NYZDNZNHpGQVNMN2hLbUkvTU1XeDJYTUZkazg2alo1MWZrd01LOGs3YVRPM204WHlVU0tiWk9hQ2w4RndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NjU4MzkwCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKSXFmU29nRmFLZ3ZEdHVYRGdCem5TR2JxRU1GSjMrNmY4Tkt3WTRaTHl5ZTZDMjdFSEZxbmJESUxDSm80QzQ2dlJPekxCN0c0bElJWlJ0eUtrVjdXRHc9PQo="
     }
   }
 }
