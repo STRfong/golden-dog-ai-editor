@@ -1,15 +1,15 @@
 {
-  "version": "0.2.9",
-  "notes": "- 影片裁切 Step 3 新增單元名稱範本功能\n- 影片裁切 Step 3 可編輯 Pending Row、Step 4 新增 token chips 助手\n- 新增「影片裁切」工具頁",
-  "pub_date": "2026-05-13T07:46:58Z",
+  "version": "0.2.10",
+  "notes": "- 新增 MXF 等專業攝影機素材支援：可選入 .mxf 檔，無法預覽時提示改用時間碼操作\n- 影片裁切「標切點」新增 Premiere timecode 模式：支援 drop-frame 時間碼（分號 + 影格），可直接從 Premiere 複製貼上入/出點",
+  "pub_date": "2026-06-07T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3VmcTQ2Q3QwenY0dG5mMjVWc3JqblFWK0NYZDNZNHpGQVNMN2hLbUkvTU1XeDJYTUZkazg2alo1MWZrd01LOGs3YVRPM204WHlVU0tiWk9hQ2w4RndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NjU4MzkwCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKSXFmU29nRmFLZ3ZEdHVYRGdCem5TR2JxRU1GSjMrNmY4Tkt3WTRaTHl5ZTZDMjdFSEZxbmJESUxDSm80QzQ2dlJPekxCN0c0bElJWlJ0eUtrVjdXRHc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3RNR1habks3d0ZkUmN3S29sa2JWdmRWMlV0MUJkWTRUYUw4UGVjVWRzNDBwQmRqdGsydmtTZ292UDlUWXJDTkpKSDZqcTR6WlF6T1hkMi80WmJQcWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODA0MTA0CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKSGNoWnhRTHpMeWpoVDNQdEdCbzhQNGpqVHBlcDNHdno4MUptTG9mQTFZamlQZlZOZGdSTmdUb05GR1gwbWs0b1dhc0Nib1VJL3paZU42NXljNkpWQWc9PQo="
     },
     "darwin-x86_64": {
       "url": "https://strfong.github.io/golden-dog-ai-editor/黃金狗剪片.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3VmcTQ2Q3QwenY0dG5mMjVWc3JqblFWK0NYZDNZNHpGQVNMN2hLbUkvTU1XeDJYTUZkazg2alo1MWZrd01LOGs3YVRPM204WHlVU0tiWk9hQ2w4RndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NjU4MzkwCWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKSXFmU29nRmFLZ3ZEdHVYRGdCem5TR2JxRU1GSjMrNmY4Tkt3WTRaTHl5ZTZDMjdFSEZxbmJESUxDSm80QzQ2dlJPekxCN0c0bElJWlJ0eUtrVjdXRHc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWE5NDZQTUZMb3RNR1habks3d0ZkUmN3S29sa2JWdmRWMlV0MUJkWTRUYUw4UGVjVWRzNDBwQmRqdGsydmtTZ292UDlUWXJDTkpKSDZqcTR6WlF6T1hkMi80WmJQcWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODA0MTA0CWZpbGU66buD6YeR54uX5Ymq54mHLmFwcC50YXIuZ3oKSGNoWnhRTHpMeWpoVDNQdEdCbzhQNGpqVHBlcDNHdno4MUptTG9mQTFZamlQZlZOZGdSTmdUb05GR1gwbWs0b1dhc0Nib1VJL3paZU42NXljNkpWQWc9PQo="
     }
   }
 }
